@@ -1,0 +1,6 @@
+Variable: Sirve para almacenar datos que podrán ser usados más tarde, se declara con la palabra clave "var" y se le puede asignar valores con el símbolo "="
+String: Cadena de texto, se colocan entre comillas dobles o simples ""''
+Funciones: Objetos invocables, se inicializa con la palabra clave "function" seguido de un nombre preferentemente que de a entender que realiza dicha función, bloque de código que se manifiesta al ser invocada la función con los argumentos requeridos
+            return: devuelve argumento específico solicitado el cual ya fue desarrollado en el bloque de código
+if: Sentencia que recibe por parámetro una condición, de ser cumplirse, ejecuta el bloque de código, de lo contrario salta a algúna acción o bloque de código distinto según sea establecido
+Boolean: True/Flase, Evalua expresiones las cuales retornan el valor "true" o "false" según sea el caso
